@@ -1,0 +1,5 @@
+{
+  "name": "E-Mail Forensics Analyzer",
+  "description": "An application to analyze .eml files for forensic purposes, providing a detailed risk score based on technical, enrichment, and AI-powered content analysis.",
+  "requestFramePermissions": []
+}
